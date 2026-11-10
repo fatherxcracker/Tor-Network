@@ -13,7 +13,7 @@ Our project explores the Tor Network and how it provides privacy and anonymity w
 
 We will research how Tor circuits work, including guard, middle, and exit relays, as well as directory authorities, network consensus, bridges, pluggable transports, and onion services.
 
-For the practical portion of our project, we plan to set up a non-exit Tor relay using a Linux-based VPS hosted through Hetzner. The relay will help carry encrypted Tor network traffic without connecting directly to destination websites. We also plan to use Nyx to monitor the relay, view bandwidth usage, and observe network activity.
+For the practical portion of our project, we plan to set up a non-exit middle Tor relay using a Linux-based VPS hosted through Hetzner. The relay will help carry encrypted Tor network traffic without connecting directly to destination websites. We also plan to use Nyx to monitor the relay, view bandwidth usage, and observe network activity.
 
 Our goal is to understand how Tor protects users' privacy while gaining hands-on experience setting up and monitoring a Tor relay.
 
