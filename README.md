@@ -49,8 +49,12 @@ The following steps describe our planned setup. Exact commands and configuration
 
 ## Live Host Address
 
-**Status:** Not yet deployed.
-
-**Hosting Provider:** Hetzner VPS 
-
-**Relay IP Address / Host:** To be added once the VPS is created and the relay is running.
+- **Status:** Not yet deployed
+- **Hosting Provider:** Hetzner VPS
+- **Operating System:** Ubuntu Linux
+- **Relay IP Address / Hostname:** Pending VPS deployment
+- **Relay Nickname:** To be configured
+- **ORPort:** To be configured (commonly 9001)
+- **Relay Type:** Non-exit relay
+- **Monitoring Tool:** Nyx
+- **Network Status:** Not yet connected to the Tor network
