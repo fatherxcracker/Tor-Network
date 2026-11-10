@@ -61,5 +61,5 @@ The following steps describe our planned setup. Exact commands and configuration
 - **Network Status:** Not yet connected to the Tor network
 
 ## License
-This project is licensed under the MIT License - see the (LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
