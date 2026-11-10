@@ -53,8 +53,8 @@ The following steps describe our planned setup. Exact commands and configuration
 - **Hosting Provider:** Hetzner VPS
 - **Operating System:** Ubuntu Linux
 - **Relay IP Address / Hostname:** Pending VPS deployment
-- **Relay Nickname:** To be configured
-- **ORPort:** To be configured (commonly 9001)
+- **Relay Nickname:** rice-and-crackers
+- **ORPort:** To be configured 
 - **Relay Type:** Non-exit middle relay
 - **Monitoring Tool:** Nyx
 - **Network Status:** Not yet connected to the Tor network
