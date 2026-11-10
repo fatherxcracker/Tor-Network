@@ -52,8 +52,9 @@ The following steps describe our planned setup. Exact commands and configuration
 - **Status:** Deployed
 - **Hosting Provider:** Hetzner VPS
 - **Operating System:** Ubuntu Linux
-- **Relay IP Address / Hostname:** Pending VPS deployment
-- **Relay Nickname:** rice-and-crackers
+- **Server Name:** rice-and-crackers
+- **Relay IP Address / Hostname:** To be configured
+- **Relay Nickname:** To be configured
 - **ORPort:** To be configured 
 - **Relay Type:** Non-exit middle relay
 - **Monitoring Tool:** Nyx
