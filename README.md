@@ -53,7 +53,7 @@ The following steps describe our planned setup. Exact commands and configuration
 - **Hosting Provider:** Hetzner VPS
 - **Operating System:** Ubuntu Linux
 - **Server Name:** rice-and-crackers
-- **Relay IP Address / Hostname:** To be configured
+- **Relay IP Address / Hostname:** 37.27.9.126
 - **Relay Nickname:** To be configured
 - **ORPort:** To be configured 
 - **Relay Type:** Non-exit middle relay
