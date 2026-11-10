@@ -1,4 +1,4 @@
-## src Folder
+## SRC Folder
 
 ## What will be here
 This folder will contain a list of commands in order to guide the user to test the middle next relay. 
